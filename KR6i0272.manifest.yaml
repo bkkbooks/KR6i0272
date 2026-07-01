@@ -1,0 +1,215 @@
+canonical_identifier: bkk:krp/KR6i0272/v1
+canonical_location: https://kanripo.org/bkk/KR6i0272/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說弘道廣顯三昧經
+  identifiers:
+    alt_id:
+    - T15n0635
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0635.xml
+    old_id: T15n0635
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0272_000.yaml, hash: 'sha256:70ef8e353f28486602fd73e6db33b4b25a7ce578bf6cf9ae6f8ce4d8aa416ae3'}
+  - {seq: 1, filename: KR6i0272_001.yaml, hash: 'sha256:9f60df6d9f5a8012235479bffedae529d03a377556212eafaf8102dfcae1aafe'}
+  - {seq: 2, filename: KR6i0272_002.yaml, hash: 'sha256:4f0101b5d2924686c216b5c164d920a4fd35adf7aa36597403084ed3bc1e7357'}
+  - {seq: 3, filename: KR6i0272_003.yaml, hash: 'sha256:5278fa68a9a9c0a0262f30f3170ac17f389894861d23d6cc88e964d49863689c'}
+  - {seq: 4, filename: KR6i0272_004.yaml, hash: 'sha256:83ba1bbc21a3d7a2cdb917906b59da6af44321e2b0900dbb667a6c58b92f7595'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0272_001.markers.yaml, hash: 'sha256:657be1513736fd90982ad29067b9997ec415bf97218ec379723ce916ea638abe'}
+  - {seq: 2, role: markers, filename: assets/KR6i0272_002.markers.yaml, hash: 'sha256:577d027dc76f2911f02783790b15d8afd982fae946193812a8ea2f99f1e755d0'}
+  - {seq: 3, role: markers, filename: assets/KR6i0272_003.markers.yaml, hash: 'sha256:1859b946727deee1d17fdc24a41cf7d41ef2dd3a48e09b7a3b4cc0f99649a31d'}
+  - {seq: 4, role: markers, filename: assets/KR6i0272_004.markers.yaml, hash: 'sha256:73c07a52f0cf2e0318f0497a166deb6344ef279531d21c3066e6e93b4c32e071'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0272_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6943
+  label: '佛說弘道廣顯三昧經卷第一
+
+    一名入金剛問定意經'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0272_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 得普智心品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0272_T_001-mulu-2
+    span:
+    - body
+    - 3406
+    - 3406
+  label: 2 清淨道品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0272_T_001-mulu-3
+    span:
+    - body
+    - 5472
+    - 5472
+  label: 3 道無習品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0272_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5971
+  label: 佛說弘道廣顯三昧經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0272_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 4 請如來品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0272_T_002-mulu-2
+    span:
+    - body
+    - 1874
+    - 1874
+  label: 5 無欲行品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0272_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5795
+  label: 佛說弘道廣顯三昧經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0272_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 信值法品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0272_T_003-mulu-2
+    span:
+    - body
+    - 1884
+    - 1884
+  label: 7 轉法輪品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0272_T_003-mulu-3
+    span:
+    - body
+    - 3492
+    - 3492
+  label: 8 決諸疑難品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0272_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5519
+  label: 佛說弘道廣顯三昧經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0272_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 不起法忍品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0272_T_004-mulu-2
+    span:
+    - body
+    - 1411
+    - 1411
+  label: 10 眾要法品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0272_T_004-mulu-3
+    span:
+    - body
+    - 2396
+    - 2396
+  label: 11 受封拜品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0272_T_004-mulu-4
+    span:
+    - body
+    - 4206
+    - 4206
+  label: 12 囑累法藏品(四)
+  type: mulu
+  level: 1
+hash: sha256:68a9b08eea32531d7f3bdf24abed464419eb153db585e5fd2659510edd2b047a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
